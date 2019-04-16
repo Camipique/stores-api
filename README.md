@@ -1,9 +1,9 @@
 # Stores API
 This is an API built with Flask and Flask-RESTful for a simple online store.
 
-Also uses FlaskInjector from Flask which means there is no need to use global objects, they will be searched or created when needed.
+The application uses FlaskInjector from Flask which means there is no need to use global objects, they will be searched or created when needed.
 
-It uses Pony ORM to manage and interact with the application database efficiently.
+It also uses Pony ORM to manage and interact with the application database efficiently.
 
 ## Requirements
 - Python3, install [here](https://www.python.org/downloads/)
