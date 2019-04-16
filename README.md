@@ -34,3 +34,8 @@ python app.py
 
 ### Database
 Database is sqlite and will be stored in the data folder.
+
+It has entities:
+- User (id, username, password)
+- Store (id, store_name, items)
+- Item (id, name, price, store)
