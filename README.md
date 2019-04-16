@@ -1,4 +1,4 @@
-# Stores API
+# Stores API using Pony ORM
 This is an API built with Flask and Flask-RESTful for a simple online store.
 
 The application uses FlaskInjector from Flask which means there is no need to use global objects, they will be searched or created when needed.
